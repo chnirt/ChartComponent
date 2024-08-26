@@ -6,7 +6,7 @@
   "homepage": "https://codesandbox.io/s/new",
   "main": "src/index.js",
   "dependencies": {
-    "ag-grid-community": "20.2.0",
+    "ag-grid-community": "31.3.4",
     "ag-grid-enterprise": "20.2.0",
     "ag-grid-react": "20.2.0",
     "antd": "3.17.0",
